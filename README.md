@@ -10,7 +10,7 @@
  
  Público-alvo: psicólogos, psicopedagogos e seus assistidos - crianças e jovens de 9 a 16 anos, onde o site poderá ser usado como uma ferramenta. 
  
- Objetivo: Por meio do desenvolvimento de um website queremos atingir esse público por meio da exposição a contos de fada em suas versões antigas, juntamente com suas análises; aprofundando o conhecimento dos benefícios desse tipo de literatura mais infanto-juvenil, como o desenvolvimento sócio emocional e imaginação. 
+ Objetivo: Por meio do desenvolvimento de um website queremos atingir esse público através da exposição a contos de fada em suas versões antigas, juntamente com suas análises; aprofundando o conhecimento dos benefícios desse tipo de literatura mais infanto-juvenil, como o desenvolvimento sócio emocional e imaginação. 
  
 <br>
 

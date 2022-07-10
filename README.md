@@ -1,7 +1,7 @@
 # Projeto - Faebulare
 
 <h1 align="center">
- <img src="src/img/selo.png" alt="Selo Faebulare" width="150px" />
+ <img src="/src/img/selo.png" alt="Selo Faebulare" width="150px" />
 </h1>
 
  Faebulare é um projeto de conclusão do curso informática para internet integrado ao ensino médio apresentado na unidade Etec Parque Belém do Centro Paula Souza no ano de 2020 
